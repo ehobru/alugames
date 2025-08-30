@@ -1,4 +1,4 @@
-<h1>Jogo do Número Secreto</h1>
+<h1>Aluguel de Board Games</h1>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
 <h2>Tecnologias</h2>
